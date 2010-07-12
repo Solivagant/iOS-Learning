@@ -1,0 +1,294 @@
+TiMagazine
+v7
+r0
+t300622963.114013
+cCheck dependencies
+cProcessInfoPlistFile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/Info.plist iMagazine-Info.plist
+cCompileXIB /Users/gnascim/Repositories/iPhone-Learning/iMagazine/MainWindow.xib
+cProcessPCH /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch.gch iMagazine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/main.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineAppDelegate.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineViewController.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineView.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine normal i386
+cGenerateDSYMFile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app.dSYM /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine
+cTouch /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C1FEA730000000000000132
+t1277160051
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.h
+c000000004C2F4B7A0000000000000152
+t1278167930
+s338
+i<UIKit/UIKit.h>
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m
+c000000004C348B47000000000000037F
+t1278511943
+s895
+i"iMagazineAppDelegate.h"
+i"iMagazineViewController.h"
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.h
+c000000004C2F536D0000000000000216
+t1278169965
+s534
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m
+c000000004C2F536D00000000000001C2
+t1278169965
+s450
+i"iMagazineView.h"
+i"iMagazineViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.h
+c000000004C2F2B8B00000000000000F9
+t1278159755
+s249
+i<UIKit/UIKit.h>
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m
+c000000004C2F55E60000000000000438
+t1278170598
+s1080
+i"iMagazineViewController.h"
+i"iMagazineView.h"
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/MainWindow.xib
+c000000004C2F4CF5000000000000449D
+t1278168309
+s17565
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app
+t1278930163
+s238
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app.dSYM
+t1278930163
+s102
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/Info.plist
+t1278167931
+s599
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/MainWindow.nib
+t1278168322
+s986
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/PkgInfo
+t1278167931
+s8
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine
+t1278930163
+s18072
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazineViewController.nib
+t1278167931
+s795
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazine.LinkFileList
+c000000004C2F4B7B0000000000000260
+t1278167931
+s608
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineAppDelegate.o
+t1278930162
+s44992
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineView.o
+t1278169965
+s37112
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineViewController.o
+t1278170599
+s38036
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/main.o
+t1278167932
+s6332
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazineViewController.xib
+c000000004C2F2B8B0000000000001A4D
+t1278159755
+s6733
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazine_Prefix.pch
+c000000004C2F2B8B00000000000000BB
+t1278159755
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m
+c000000004C2F2B8B0000000000000170
+t1278159755
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch.gch
+t1278167932
+s15232016
+
+NiMagazine-Info.plist
+c000000004C2F2B8B000000000000038D
+t1278159755
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300622959#300622959#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineAppDelegate.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300622959.839359
+e300622962.666945
+r1
+xCompileC
+xbuild/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineAppDelegate.o
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m300622959#300622962#0(0"0(0#0#84"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m7308895219609985024#2146"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-generated-files.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-own-target-headers.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-all-target-headers.hmap -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-project-headers.hmap -F/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/include -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources/i386 -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources -include /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch -c /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineAppDelegate.m -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineAppDelegate.o0#
+
+CCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineView.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299862765.199016
+e299862765.303574
+r1
+xCompileC
+xbuild/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineView.o
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m299862765#299862765#0(0"0(0#0#77"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m8629679040#2132"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-generated-files.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-own-target-headers.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-all-target-headers.hmap -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-project-headers.hmap -F/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/include -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources/i386 -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources -include /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch -c /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineView.m -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineView.o0#
+
+CCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineViewController.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299863399.060579
+e299863399.141345
+r1
+xCompileC
+xbuild/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineViewController.o
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m299863399#299863399#0(0"0(0#0#87"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m8624101472#2152"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-generated-files.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-own-target-headers.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-all-target-headers.hmap -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-project-headers.hmap -F/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/include -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources/i386 -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources -include /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch -c /Users/gnascim/Repositories/iPhone-Learning/iMagazine/Classes/iMagazineViewController.m -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazineViewController.o0#
+
+CCompileC build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/main.o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299860732.672103
+e299860732.825448
+r1
+xCompileC
+xbuild/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/main.o
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m299860732#299860732#0(0"0(0#0#60"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m8603418400#2106"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-generated-files.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-own-target-headers.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-all-target-headers.hmap -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-project-headers.hmap -F/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/include -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources/i386 -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources -include /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch -c /Users/gnascim/Repositories/iPhone-Learning/iMagazine/main.m -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/gnascim/Repositories/iPhone-Learning/iMagazine/MainWindow.xib
+s299861121.868992
+e299861122.230895
+r1
+xCompileXIB
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299861121#299861122#0(0"0(0#0#68"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/MainWindow.xib8613347488#617"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/MainWindow.nib /Users/gnascim/Repositories/iPhone-Learning/iMagazine/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazineViewController.xib
+s299860731.071507
+e299860731.478747
+r1
+xCompileXIB
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazineViewController.xib
+lSLF07#2@38"CompileXIB iMagazineViewController.xib299860731#299860731#0(0"0(0#0#81"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazineViewController.xib8617453856#643"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazineViewController.nib /Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazineViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app.dSYM /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine
+s300622963.051087
+e300622963.111126
+r1
+xGenerateDSYMFile
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app.dSYM
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/iMagazine.app.dSYM build/Debug-iphonesimulator/iMagazine.app/iMagazine300622963#300622963#0(0"0(0#0#105"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine8600566848#434"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app.dSYM0#
+
+CLd /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine normal i386
+s300622962.667103
+e300622963.050992
+r1
+xLd
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine
+xnormal
+xi386
+lSLF07#2@110"Link /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine300622962#300622963#0(0"0(0#0#0"8599845408#985"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -F/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -filelist /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/Objects-normal/i386/iMagazine.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/iMagazine0#
+
+CProcessInfoPlistFile /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/Info.plist iMagazine-Info.plist
+s299860731.031693
+e299860731.061772
+r1
+xProcessInfoPlistFile
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/Info.plist
+xiMagazine-Info.plist
+lSLF07#2@28"Process iMagazine-Info.plist299860731#299860731#0(0"0(0#0#74"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazine-Info.plist27303515128922188#530"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iMagazine-Info.plist -genpkginfo /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app/Info.plist0#
+
+CProcessPCH /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch.gch iMagazine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299860731.488970
+e299860732.671716
+r1
+xProcessPCH
+x/var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch.gch
+xiMagazine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iMagazine_Prefix.pch299860731#299860732#0(0"0(0#0#74"/Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazine_Prefix.pch8618168768#1981"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-generated-files.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-own-target-headers.hmap -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-all-target-headers.hmap -iquote /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/iMagazine-project-headers.hmap -F/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/include -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources/i386 -I/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/iMagazine.build/Debug-iphonesimulator/iMagazine.build/DerivedSources -c /Users/gnascim/Repositories/iPhone-Learning/iMagazine/iMagazine_Prefix.pch -o /var/folders/mS/mSaGYpsjHxC38-NocDkziE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iMagazine_Prefix-bonhexkqogqeobcmlxkreexjawli/iMagazine_Prefix.pch.gch0#
+
+CTouch /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app
+s300622963.111214
+e300622963.113972
+r1
+xTouch
+x/Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app
+lSLF07#2@101"Touch /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app300622963#300622963#0(0"0(0#0#0"8603749696#310"    cd /Users/gnascim/Repositories/iPhone-Learning/iMagazine    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gnascim/Repositories/iPhone-Learning/iMagazine/build/Debug-iphonesimulator/iMagazine.app0#
+
